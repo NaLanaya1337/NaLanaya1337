@@ -1,40 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Linux+User;CTF+Player)](https://git.io/typing-svg)
+<h1 align="center">NaLanaya1337</h1>
+<p align="center">Cybersecurity student</p>
 
-
-# NaLanaya1337
-
-Cybersecurity student.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=222222&center=true&vCenter=true&width=700&lines=Cybersecurity+student;Linux+enthusiast;CTF+explorer;Python+%7C+Bash+%7C+Git" alt="Typing SVG" />
+</p>
 
 ---
 
-## About me
+### About me
 
 - Cybersecurity student
-- Interested in Linux and security research
-- Former competitive programming participant (C++)
-- Writing scripts in Python and Bash
-- Exploring different CTF areas: reverse, pwn, crypto, forensics, OSINT
+- Former competitive programming participant in C++
+- Interested in Linux, scripting, and security research
+- Exploring CTF directions: reverse, pwn, crypto, forensics, OSINT
 - Currently working on a game project with a small team
+- Improving Linux skills and development workflow
 
 ---
 
-## Technologies
+### Stack
 
-![Skills](https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker,cpp" />
+</p>
 
 ---
 
-## Currently learning
+### GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaLanaya1337&show_icons=true&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaLanaya1337&layout=compact&hide_border=true&theme=default" />
+</p>
+
+---
+
+### Current focus
 
 - improving Linux skills
-- exploring cybersecurity directions
-- working with Git and development workflows
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaLanaya1337&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaLanaya1337&layout=compact&theme=transparent)
-
+- learning better Git/GitHub workflow
+- exploring cybersecurity paths
+- contributing to a team game project
