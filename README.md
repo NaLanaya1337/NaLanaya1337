@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm NaLanaya</h1>
+<h3 align="center">Cybersecurity student</h3>
 
-<!--
-**NaLanaya1337/NaLanaya1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About me
+- 🎓 Student of cybersecurity  
+- 🐧 Linux user (Parrot OS)  
+- 🔐 Interested in hacking / OSINT / CTF  
+- 🎮 Sometimes making games  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech stack
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+
+---
+
+### 📊 GitHub stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=NaLanaya1337&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaLanaya1337&layout=compact&theme=dark)
+
+---
+
+### 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NaLanaya1337&theme=dark)
