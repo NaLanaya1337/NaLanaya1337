@@ -1,33 +1,36 @@
-<h1 align="center">Hi 👋, I'm NaLanaya</h1>
-<h3 align="center">Cybersecurity student</h3>
+# NaLanaya1337
+
+Cybersecurity student.
 
 ---
 
-### 👨‍💻 About me
-- 🎓 Student of cybersecurity  
-- 🐧 Linux user (Parrot OS)  
-- 🔐 Interested in hacking / OSINT / CTF  
-- 🎮 Sometimes making games  
+## About me
+
+- Cybersecurity student
+- Interested in Linux and security research
+- Former competitive programming participant (C++)
+- Writing scripts in Python and Bash
+- Exploring different CTF areas: reverse, pwn, crypto, forensics, OSINT
+- Currently working on a game project with a small team
 
 ---
 
-### 🛠 Tech stack
+## Technologies
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Skills](https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker)
 
 ---
 
-### 📊 GitHub stats
+## Currently learning
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NaLanaya1337&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaLanaya1337&layout=compact&theme=dark)
+- improving Linux skills
+- exploring cybersecurity directions
+- working with Git and development workflows
 
 ---
 
-### 🔥 Streak
+## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=NaLanaya1337&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaLanaya1337&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaLanaya1337&layout=compact&theme=transparent)
