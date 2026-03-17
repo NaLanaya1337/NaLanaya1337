@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Linux+User;CTF+Player)](https://git.io/typing-svg)
+
+
 # NaLanaya1337
 
 Cybersecurity student.
