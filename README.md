@@ -38,6 +38,3 @@ Cybersecurity student.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaLanaya1337&layout=compact&theme=transparent)
 
-## Contribution Snake
-
-![snake](https://raw.githubusercontent.com/NaLanaya1337/github-snake/output/github-snake.svg)
